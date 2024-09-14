@@ -1,0 +1,18 @@
+.stApp {
+    background-image: url('https://i.postimg.cc/9FY4zK10/Fatehput-Sikiri-Buland-Darwaza-gate-2010.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    .glass {
+        background: rgba(255, 255, 255, 0.1); /* Translucent background */
+        backdrop-filter: blur(10px); /* Blurring effect */
+        border-radius: 10px; /* Rounded corners */
+        padding: 10px;
+        color: #ffffff; /* Text color */
+        font-weight: bold; /* Bold text */
+    }
+   
+
+    
+    
+}
